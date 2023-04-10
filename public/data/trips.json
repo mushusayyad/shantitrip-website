@@ -1,39 +1,55 @@
 [
   {
     "id": 0,
-    "name": "Mountain Madness",
-    "imageUrl": "https://imgs.search.brave.com/kPI80y1hLkwsZsmxItNeW_HkSHiOl9dInlK8Wgko1-s/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC52/UzBobnZnMDVybXp6/S2Nqb01BYWZBSGFF/OCZwaWQ9QXBp",
-    "decsription": "Welcome to the ultimate adventure getaway to Manali and Tirthan Valley! This trip, designed for 7 people, is aptly titled Mountain Madness. We will take you to two destinations nestled in the lap of the Himalayas offering an unparalleled blend of scenic beauty, adventure, and cultural experiences that will leave you spellbound.",
+    "name": "Trailblazers",
+    "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbanbanjara.com%2Ftours%2Fkasol-kheerganga-trek-with-camping&psig=AOvVaw3IcBKkOg0fJwKw8o-Ar154&ust=1681191807828000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiY05vNnv4CFQAAAAAdAAAAABAI",
+    "decsription": "Sitting gracefully in the heavenly Parvati Valley of Himachal Pradesh, lie many hidden gems that promise to rejuvenate your soul and soothe your senses. This 2 Night/3 Day package, beautifully designed by ShantiTrip Holidays, welcomes you to Kasol and Kheerganga",
     "days": 8,
-    "people": "7-8 people",
-    "date": "June-July",
-    "budget": "12000 /-",
+    "people": "Group",
+    "date": "",
+    "budget": "3,300/- per person",
     "images": [
-      "https://imgs.search.brave.com/XnZUrBPEpaI1isoO1xgT2vNRFbbGh4Ixu0zrnf9BH6s/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/X1NTVkpSMHJyek9T/MWRVRkF0VzNBSGFF/NyZwaWQ9QXBp",
-      "https://imgs.search.brave.com/rKxesebrwh8rfgnbIJwwvZZOO5TLY3Skmkx-AiRi9-Q/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/VE9lMnc1Q0J2Yk92/WVlHREp4R0tRSGFE/dCZwaWQ9QXBp",
-      "https://imgs.search.brave.com/6LOANmc2obeMcn8McREaNxCFxw15eUwbWniPPRhiHoE/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC54/Qkl5QlhlV3k5dVpE/dFEzcjNTYldBSGFF/byZwaWQ9QXBp",
-      "https://imgs.search.brave.com/BU6K6XJz_rryEy9aURy04bX4yvvek-_9g6YeV-DMK3M/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/Zk5oVmpld0FMcE10/ZjY2c2VWRjhBSGFF/SyZwaWQ9QXBp"
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thrillophilia.com%2Ftours%2Fkasol-trip-with-trek-to-kheerganga-and-tosh-from-delhi&psig=AOvVaw3IcBKkOg0fJwKw8o-Ar154&ust=1681191807828000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiY05vNnv4CFQAAAAAdAAAAABAb",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lazymonkadventure.com%2Ftour%2Fkasol-kheerganga-trek-the-trilogy%2F&psig=AOvVaw3IcBKkOg0fJwKw8o-Ar154&ust=1681191807828000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiY05vNnv4CFQAAAAAdAAAAABAz",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rajputholidays.in%2Ftour%2Ftrip-to-kasol-and-kheerganga-2n-3d%2F&psig=AOvVaw3IcBKkOg0fJwKw8o-Ar154&ust=1681191807828000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiY05vNnv4CFQAAAAAdAAAAABA7",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.plantheunplanned.com%2Fdelhi%2Fkasol-kheerganga-trek%2F&psig=AOvVaw3IcBKkOg0fJwKw8o-Ar154&ust=1681191807828000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiY05vNnv4CFQAAAAAdAAAAABBA"
     ],
     "itinerary": [
       {
         "day": "day1",
-        "places": [0]
+        "places": [
+          0
+        ]
       },
       {
         "day": "day2",
-        "places": [0, 1, 2, 3]
+        "places": [
+          1
+        ]
       },
       {
         "day": "day3",
-        "places": [0, 1, 2, 3]
+        "places": [
+          2
+        ]
       },
       {
         "day": "day4",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day5",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       }
     ]
   },
@@ -55,23 +71,36 @@
     "itinerary": [
       {
         "day": "day1",
-        "places": [0]
+        "places": [
+          0
+        ]
       },
       {
         "day": "day2",
-        "places": [2, 3]
+        "places": [
+          2,
+          3
+        ]
       },
       {
         "day": "day3",
-        "places": [3]
+        "places": [
+          3
+        ]
       },
       {
         "day": "day4",
-        "places": [2, 3]
+        "places": [
+          2,
+          3
+        ]
       },
       {
         "day": "day5",
-        "places": [0, 1]
+        "places": [
+          0,
+          1
+        ]
       }
     ]
   },
@@ -93,23 +122,48 @@
     "itinerary": [
       {
         "day": "day1",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day2",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day3",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day4",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day5",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       }
     ]
   },
@@ -131,23 +185,48 @@
     "itinerary": [
       {
         "day": "day1",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day2",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day3",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day4",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       },
       {
         "day": "day5",
-        "places": [0, 1, 2, 3]
+        "places": [
+          0,
+          1,
+          2,
+          3
+        ]
       }
     ]
   }
